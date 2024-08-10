@@ -9,17 +9,17 @@ Malignant tumors represent a significant global health threat, and one of the ke
 
 # Running to Match Serial WSIs
 
-## Clone the Repository:
+## 1. Clone the Repository:
 
 git clone
 cd serial-WSI-matching
 
-## Prepare Dataset:
+## 2. Prepare Dataset:
 
 The dataset can be downloaded from this link. Please ensure that the dataset path is correctly set by modifying the DatasetPath parameter to your local path.
 Run the Main Script:
 
-## Run the Main Script:
+## 3. Run the Main Script:
 
 Run the main_serial_WSI_matching.m command in MATLAB to start the matching process. The matching results and visualizations can be found in the results and visualization directories, respectively.
 
@@ -27,18 +27,17 @@ Run the main_serial_WSI_matching.m command in MATLAB to start the matching proce
 
 We offer a clinical testing version of the software system that provides the following features:
 
-## Interactive Viewing of Common Regions:
+## 1. Interactive Viewing of Common Regions:
 
 Users can interactively view any common regions of interest across serial WSIs. Simply double-click on an area of interest in one WSI, and the corresponding common regions on other WSIs will be automatically visualized in the system interface.
-Quantification of Tumor Heterogeneity:
 
-## Quantification of Tumor Heterogeneity:
+## 2. Quantification of Tumor Heterogeneity:
 
 The system allows users to select any shape and size of the region on any WSI. By clicking multiple times to select a closed region of interest, tumor heterogeneity can be automatically quantified. The results are visualized in the system interface to assist pathologists in analyzing cancer and guiding treatment strategies.
 
-## Demonstration
+## 3. Demonstration
 
-We have provided a demonstration video to further illustrate the process of quantifying tumor heterogeneity, highlighting how the quantified results can assist pathologists in developing cancer treatment strategies.
+We have provided a demonstration video to further illustrate the process of quantifying tumor heterogeneity, highlighting tumor heterogeneity quantification results to assist pathologists in developing cancer treatment strategies.
 
 Watch the demonstration video: [Watch the demo video](videos/Video.mp4)
 
