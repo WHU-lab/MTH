@@ -17,7 +17,7 @@ The dataset can be downloaded from this link. Please ensure that the dataset pat
 
 ## 2. Run the Main Script:
 
-Run the main_serial_WSI_matching.m command in MATLAB to start the matching process. The matching results and visualizations can be found in the results and visualization directories, respectively.
+Run the main_serial_WSI_matching.m command in MATLAB to start the matching process. The matching results and visualizations can be found in the "results" and "visualization" directories, respectively.
 
 # Tumor Heterogeneity Quantification
 
