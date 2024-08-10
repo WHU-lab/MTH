@@ -39,10 +39,9 @@ The system allows users to select any shape and size of the region on any WSI. B
 
 ## 3. Demonstration
 
-We have provided a demonstration video to further illustrate the process of quantifying tumor heterogeneity, highlighting tumor heterogeneity quantification results to assist pathologists in developing cancer treatment strategies.
+We have provided a [demonstration video](videos/Video.mp4) to further illustrate the quantifying tumor heterogeneity (see screenshot below), highlighting tumor heterogeneity quantification results to assist pathologists in developing cancer treatment strategies.
 
 ![Video Thumbnail](https://github.com/WHU-lab/MTH/blob/main/videos/Software.png)
-[Watch the video](videos/Video.mp4)
 
 # References
 
