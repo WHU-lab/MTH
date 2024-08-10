@@ -1,5 +1,5 @@
 # MTH
-MTH--Matching for tumor heterogeneity--Whole slide image matching for tumor heterogeneity quantification.
+MTH--Matching for tumor heterogeneity--Serial whole slide image matching for tumor heterogeneity quantification.
 
 # Paper
 Title: Accurately matching serial whole slide images for tumor heterogeneity analysis.
