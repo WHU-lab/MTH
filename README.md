@@ -11,12 +11,6 @@ Malignant tumors represent a significant global health threat, and one of the ke
 
 # Running to Match Serial WSIs
 
-## 1. Prepare Dataset:
-
-The dataset can be downloaded from this link. Please ensure that the dataset path is correctly set by modifying the DatasetPath parameter to your local path.
-
-## 2. Run the Main Script:
-
 Run the main_serial_WSI_matching.m command in MATLAB to start the matching process. The matching results and visualizations can be found in the "results" and "visualization" directories, respectively.
 
 # Tumor Heterogeneity Quantification
